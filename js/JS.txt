@@ -1,0 +1,9 @@
+parseInt : 입력받은 string을 number로 변환하려고 시도하는 함수
+number 가 아니면 NaN(Not a Number)를 반환
+
+isNaN : 입력받은 값이 number인지를 판단해 number 이면 false,
+NaN이면 true를 반환함.
+
+AND : 조건이 모두 true여야 true 값을 반환함.
+
+ 
